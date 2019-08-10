@@ -49,6 +49,7 @@ namespace EmployeeHierarchy.Tests
             string[] CsvInput = { employee1, employee2 };
             Assert.Throws<ArgumentException>(() => new Employees(CsvInput));
         }
+
         [Fact]
         public void EmployeeShouldNotHaveCyclicReference()
         {
@@ -57,5 +58,20 @@ namespace EmployeeHierarchy.Tests
             string[] CsvInput = { employee1, employee2 };
             Assert.Throws<ArgumentException>(() => new Employees(CsvInput));
         }
+
+        [Fact]
+        public void CalculatesCorrectManagerBudget()
+        {
+            string employee1 = "Employee2,,800";
+            string employee2 = "Employee1,Employee2,500";
+            string[] CsvInput = { employee1, employee2 };
+            Int32 ExpectedBudget=1300;
+            Int32 TotalBudget;
+            Employees employees = new Employees(CsvInput);
+            TotalBudget = employees.GetManagersBudget("Employee2");
+            Assert.Equal(ExpectedBudget,TotalBudget);            
+        }
+
+
     }
 }

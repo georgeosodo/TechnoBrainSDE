@@ -20,6 +20,26 @@ namespace EmployeeHierarchy.Domain
 
         public List<Employee> employees { get; set; }
 
+        public Int32 GetManagersBudget(string managerId)
+        {
+            if (string.IsNullOrWhiteSpace(managerId)) throw new ArgumentException("Invalid Manager");
+            Int32 total = 0;
+            total += employees.FirstOrDefault(e => e.Id == managerId).Salary;
+            foreach (var item in employees.Where(e => e.ManagerId == managerId))
+            {
+                if (isManager(item.Id))
+                {
+                    total += GetManagersBudget(item.Id);
+                }
+                else
+                {
+                    total += item.Salary;
+                }
+            }
+            return Convert.ToInt32(total);
+        }
+        private bool isManager(string id) => employees.Where(e => e.ManagerId == id).Count() > 0;
+               
         private void ValidateNumberOfCEOs()
         {
             if (employees.Where(e => e.ManagerId == string.Empty || e.ManagerId == null).Count() > 1)
