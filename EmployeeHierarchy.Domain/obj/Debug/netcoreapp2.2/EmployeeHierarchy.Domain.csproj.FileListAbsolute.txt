@@ -1,0 +1,9 @@
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Domain\bin\Debug\netcoreapp2.2\EmployeeHierarchy.Domain.deps.json
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Domain\bin\Debug\netcoreapp2.2\EmployeeHierarchy.Domain.dll
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Domain\bin\Debug\netcoreapp2.2\EmployeeHierarchy.Domain.pdb
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Domain\obj\Debug\netcoreapp2.2\EmployeeHierarchy.Domain.csprojAssemblyReference.cache
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Domain\obj\Debug\netcoreapp2.2\EmployeeHierarchy.Domain.csproj.CoreCompileInputs.cache
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Domain\obj\Debug\netcoreapp2.2\EmployeeHierarchy.Domain.AssemblyInfoInputs.cache
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Domain\obj\Debug\netcoreapp2.2\EmployeeHierarchy.Domain.AssemblyInfo.cs
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Domain\obj\Debug\netcoreapp2.2\EmployeeHierarchy.Domain.dll
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Domain\obj\Debug\netcoreapp2.2\EmployeeHierarchy.Domain.pdb

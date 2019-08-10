@@ -1,0 +1,17 @@
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Tests\bin\Debug\netcoreapp2.2\EmployeeHierarchy.Tests.deps.json
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Tests\bin\Debug\netcoreapp2.2\EmployeeHierarchy.Tests.runtimeconfig.json
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Tests\bin\Debug\netcoreapp2.2\EmployeeHierarchy.Tests.runtimeconfig.dev.json
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Tests\bin\Debug\netcoreapp2.2\EmployeeHierarchy.Tests.dll
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Tests\bin\Debug\netcoreapp2.2\EmployeeHierarchy.Tests.pdb
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Tests\bin\Debug\netcoreapp2.2\EmployeeHierarchy.Domain.dll
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Tests\bin\Debug\netcoreapp2.2\EmployeeHierarchy.Domain.pdb
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Tests\obj\Debug\netcoreapp2.2\EmployeeHierarchy.Tests.csprojAssemblyReference.cache
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Tests\obj\Debug\netcoreapp2.2\EmployeeHierarchy.Tests.csproj.CoreCompileInputs.cache
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Tests\obj\Debug\netcoreapp2.2\EmployeeHierarchy.Tests.AssemblyInfoInputs.cache
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Tests\obj\Debug\netcoreapp2.2\EmployeeHierarchy.Tests.AssemblyInfo.cs
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Tests\obj\Debug\netcoreapp2.2\EmployeeHierarchy.Tests.csproj.CopyComplete
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Tests\obj\Debug\netcoreapp2.2\EmployeeHierarchy.Tests.dll
+F:\projects\HackThon\TechnoBrainSDE\EmployeeHierarchy\EmployeeHierarchy.Tests\obj\Debug\netcoreapp2.2\EmployeeHierarchy.Tests.pdb

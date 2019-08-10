@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\projects\\HackThon\\TechnoBrainSDE\\EmployeeHierarchy\\EmployeeHierarchy.Tests\\EmployeeHierarchy.Tests.csproj": {}
+  },
+  "projects": {
+    "F:\\projects\\HackThon\\TechnoBrainSDE\\EmployeeHierarchy\\EmployeeHierarchy.Domain\\EmployeeHierarchy.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\projects\\HackThon\\TechnoBrainSDE\\EmployeeHierarchy\\EmployeeHierarchy.Domain\\EmployeeHierarchy.Domain.csproj",
+        "projectName": "EmployeeHierarchy.Domain",
+        "projectPath": "F:\\projects\\HackThon\\TechnoBrainSDE\\EmployeeHierarchy\\EmployeeHierarchy.Domain\\EmployeeHierarchy.Domain.csproj",
+        "packagesPath": "C:\\Users\\KG\\.nuget\\packages\\",
+        "outputPath": "F:\\projects\\HackThon\\TechnoBrainSDE\\EmployeeHierarchy\\EmployeeHierarchy.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "F:\\projects\\HackThon\\TechnoBrainSDE\\EmployeeHierarchy\\EmployeeHierarchy.Tests\\EmployeeHierarchy.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\projects\\HackThon\\TechnoBrainSDE\\EmployeeHierarchy\\EmployeeHierarchy.Tests\\EmployeeHierarchy.Tests.csproj",
+        "projectName": "EmployeeHierarchy.Tests",
+        "projectPath": "F:\\projects\\HackThon\\TechnoBrainSDE\\EmployeeHierarchy\\EmployeeHierarchy.Tests\\EmployeeHierarchy.Tests.csproj",
+        "packagesPath": "C:\\Users\\KG\\.nuget\\packages\\",
+        "outputPath": "F:\\projects\\HackThon\\TechnoBrainSDE\\EmployeeHierarchy\\EmployeeHierarchy.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "F:\\projects\\HackThon\\TechnoBrainSDE\\EmployeeHierarchy\\EmployeeHierarchy.Domain\\EmployeeHierarchy.Domain.csproj": {
+                "projectPath": "F:\\projects\\HackThon\\TechnoBrainSDE\\EmployeeHierarchy\\EmployeeHierarchy.Domain\\EmployeeHierarchy.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
